@@ -12,7 +12,7 @@ public class Test1 {
 			String browser=System.getProperty("browser");
 			Reporter.log("prcticetest1", true);
 			Reporter.log(browser, true);
-			//conflict msg
+			
 		}
 }
 
